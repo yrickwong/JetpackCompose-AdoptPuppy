@@ -1,3 +1,3 @@
 # JetpackCompose-AdoptPuppy
 
-##JetpackCompose + Mavericks + Lottie
+## JetpackCompose + Mavericks + Lottie
